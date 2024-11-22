@@ -79,16 +79,7 @@ Keyboard
 Screen-Brightness-Control (for brightness adjustment)
 Install all dependencies via pip install -r requirements.txt.
 
-File Structure
-gesture-control-system/
-│
-├── models/
-│   ├── gesture_model.keras    # Trained gesture recognition model
-│   ├── label_encoder.pkl      # Label encoder for gesture classification
-│
-├── gesture_control_system                    # Main script
-├── requirements.txt           # Dependency list
-└── README.md                  # Project documentation
+   
 Potential Enhancements
 Voice Command Integration: Combine gestures with voice for hybrid control.
 Multi-Hand Gestures: Enable more complex two-hand gesture controls.
